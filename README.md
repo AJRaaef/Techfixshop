@@ -39,6 +39,18 @@ The system integrates supplier data, automates quote and order processes, and pr
 
 ---
 
+## Image Screenshot
+
+<table>
+  <tr>
+    <td><img src="assets/login.png" alt="Login UI" width="250"/></td>
+    <td><img src="assets/uiinterface.png" alt="Dog Info" width="250"/></td>
+    <td><img src="assets/comparesuggestion.png
+          " alt="View Items UI" width="250"/></td>
+  </tr>
+</table>
+
+
 ## ⚙️ Setup Instructions
 
 1. **Clone the Repository**
